@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-colors="{red,yello,orange,green,blue,indigo,violet}"
+colors="[red,yello,orange,green,blue,indigo,violet]"
 
 
 def display_rainbow(colors)
